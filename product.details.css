@@ -1,0 +1,23 @@
+body{
+    overflow: hidden;
+    width: 100%;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  
+    
+}
+.box .dis{
+    width: 500px;
+}
+ #btn{
+    background-color: green;
+    padding: 10px 15px;
+
+}
+#btn:hover{
+    background-color: black;
+    color: aliceblue;
+}

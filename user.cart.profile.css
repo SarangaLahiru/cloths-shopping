@@ -1,0 +1,49 @@
+.slides .user_cart .img{
+    height: 250px;
+}
+.slides .user_cart .dis{
+    margin-top: -150px;
+    width: 500px;
+}
+.cart {
+    margin-top: 400px;
+    
+    
+}
+.cart table{
+    width: 500px;
+    margin-left: 200px;
+}
+.cart input[type="submit"]{
+    border: none;
+    background-color: red;
+    color: #fff;
+    padding: 10px 15px;
+}
+.cart input[type="submit"]:hover{
+    background-color: black;
+}
+.cart input[type="submit"]:active{
+    background-color: #fff;
+}
+.cart .total table {
+    position: absolute;
+    left: 100vh;
+    top: 500px;
+    padding: 10px 15px;
+    background-color: rgb(199, 224, 198);
+}
+.cart .total table{
+    width: 280px;
+    height: 280px;
+}
+.cart .total table button{
+    border: none;
+    background-color: green;
+    padding: 10px 15px;
+    color: #fff;
+    margin-left: 70px;
+    
+}
+
+
